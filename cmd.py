@@ -14,7 +14,7 @@ def load_users():
     file.close()
 
 load_users()
-bot = telebot.TeleBot("1725300170:AAEXUPHxg8G-C4598d03SwwmPvPf9bA9HyY")
+bot = telebot.TeleBot("")
 time = datetime.datetime.now()
 log=""
 
